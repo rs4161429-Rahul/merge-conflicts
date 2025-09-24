@@ -1,6 +1,6 @@
 
 sky never competes with their stars.
+<<<<<<< HEAD
 hddcdhb
-=======
-hloooo
->>>>>>> feature_1
+======
+>>>>>>> feature2
