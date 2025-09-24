@@ -1,2 +1,6 @@
+
 sky never competes with their stars.
 hddcdhb
+=======
+hloooo
+>>>>>>> feature_1
