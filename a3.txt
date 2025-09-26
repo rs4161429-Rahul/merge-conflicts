@@ -1,6 +1,14 @@
 
+
 great love between sky and stars
 hbasdjb 
 ======
 hjdedhddjd
 >>>>>>> feature_1a
+=======
+<<<<<<< HEAD
+hjdedhddjd
+=======
+great love between sky and stars
+
+>>>>>>> feature_1

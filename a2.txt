@@ -1,3 +1,11 @@
-<<<<<<< HEAD
+
+
 sky...shines with millions of star just like family.
 
+=======
+<<<<<<< HEAd 
+=======
+sky...shines with millions of star just like family.
+hegygdyd
+>>>>>>> feature2
+>>>>>>> feature_1

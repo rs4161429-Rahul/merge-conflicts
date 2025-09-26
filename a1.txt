@@ -1,6 +1,13 @@
 
+
 sky never competes with their stars.
 <<<<<<< HEAD
 hddcdhb
 ======
+=======
+ggevv
+=======
+sky never competes with their stars.
+uuefu
+>>>>>>> feature_1
 >>>>>>> feature2
